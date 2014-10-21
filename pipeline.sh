@@ -17,5 +17,3 @@ do
 	mv $f ${f/txt/csv}
 done
 
-echo Available files
-ls *.csv
